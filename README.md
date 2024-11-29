@@ -52,6 +52,33 @@ In 2007, quarterly profits rebounded with consistent growth throughout the year.
 
 This analysis highlights the need to investigate the factors behind the sharp decline in Q3 of 2008 while leveraging the strategies that contributed to the consistent growth observed in 2007 and early 2008.
 
+## Regional Profit Analysis
+
+From 2005 to 2008, the regional profit contributions show a consistent upward trend across key markets, with notable performance in Australia, the United States, and the United Kingdom.
+
+In 2005, Australia led with $5.40M in profits, followed by the United States at $4.36M. Other regions, such as the United Kingdom ($1.30M), Germany ($1.03M), Canada ($637.50K), and France ($674.44K), contributed relatively smaller amounts.
+
+In 2006, both Australia and the United States experienced significant growth, generating $9.55M and $9.01M, respectively. Other regions also saw increases, with Canada contributing $2.75M and France, Germany, and the United Kingdom each surpassing $2M in profits.
+
+The year 2007 marked the peak for most regions. Australia ($12.89M) and the United States ($12.70M) dominated the market, followed by the United Kingdom at $5.65M. Germany and France also showed strong contributions, with $4.60M and $4.23M, respectively. Canada remained steady at $2.48M.
+
+In 2008, while Australia’s profits slightly declined to $10.87M, the United States surged to $14.47M, becoming the top-performing region. The United Kingdom remained strong at $5.32M, while Germany ($4.58M) and France ($4.01M) continued their consistent contributions. Canada saw modest growth, reaching $2.92M.
+
+This regional analysis highlights the United States and Australia as consistent top performers, with significant growth opportunities in the United Kingdom, Germany, and France. Continued focus on these regions can help sustain profitability and expand market share globally.
+
+## Weekday vs. Weekend Profit Analysis
+
+From 2005 to 2008, the Amazon Store consistently generated higher profits during weekdays compared to weekends, reflecting the dominant role of weekday sales in driving overall profitability.
+
+In 2005, weekdays contributed $9.72M, nearly three times the profit generated over weekends ($3.68M). This trend continued in 2006, where weekday profits surged to $20.26M, representing a 108.41% increase, while weekend profits increased to $7.91M (+114.95%).
+
+The year 2007 marked a peak in both weekday and weekend profits. Weekdays generated $30.78M, a 51.97% increase from 2006, while weekend profits reached $11.76M (+48.63%). This established weekdays as the primary driver of overall profitability.
+
+In 2008, weekday profits slightly declined to $30.17M, a marginal decrease of 1.98%, while weekend profits rose to $11.99M (+1.96%), narrowing the gap between weekday and weekend contributions.
+
+Overall, weekday sales consistently accounted for the majority of profits, highlighting the need for continued optimization of weekday strategies. However, the steady growth in weekend profits suggests untapped opportunities for further expansion through targeted campaigns and promotions.
+
+
 
 
 
