@@ -18,7 +18,7 @@ This report provides a high-level analysis of sales performance for the Amazon S
 ---
 
 ## Dashboard Overview
-![Dashboard](Time Series Dahsboard.png)
+![Dashboard]([Time Series Dahsboard.png](https://github.com/ilhemdjenane/Amazon-Store-Sales-Report/blob/main/Time%20Series%20Dahsboard.png))
 
 The dashboard visualizes key sales metrics, trends over time, and geographic performance. It enables the executive team to monitor progress and identify areas of improvement.
 
