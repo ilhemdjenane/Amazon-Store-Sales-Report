@@ -13,7 +13,8 @@
 ---
 
 ## Introduction
-This report provides a high-level analysis of sales performance for the Amazon Store, covering transactional data from 2005 to 2008. The analysis focuses on critical metrics like total revenue, profit margins, quarterly performance, and regional contributions. The goal is to derive actionable insights and strategic recommendations for decision-making and performance optimization.
+As an Analytics Consultant for an Amazon store, I was tasked with developing a high-level KPI report for the executive team. This report uses transactional sales data from 2005 to 2008, covering thousands of products, sales territories, and customer demographics. The goal was to transform this data into actionable insights to reflect the company’s performance over the years. The analysis focused on key areas such as total revenue, profit margins, quarterly performance, and regional contributions, providing strategic insights to drive decision-making and optimize future strategies.
+
 
 ---
 
@@ -26,43 +27,25 @@ The dashboard visualizes key sales metrics, trends over time, and geographic per
 
 ---
 
-## Key Metrics
-- **Total Quantity Sold:** 504 units (+11.44%)
-- **Total COGS (Cost of Goods Sold):** $16.20M (-6.72%)
-- **Total Revenue:** $27.07M (-7.45%)
-- **Total Profit:** $10.87M (-8.51%)
-- **Profit Margin:** 40.1% (-1.07%)
-- **Transactions:** 6.76K (+11.76%)
+## Yearly Sales Performance
+
+### Overview
+The dashboard summarizes the yearly performance of the Amazon Store from 2005 to 2008, highlighting key metrics such as transactions, revenue, profit, and order quantity. 
+
+### Key Highlights:
+From 2005 to 2008, the Amazon Store experienced significant growth in key metrics. In 2005, transactions totaled 1.01K, generating $33.37M in revenue with a profit margin of 40.2% and $13.40M in total profit from an order quantity of 10.40K. By 2006, transactions surged to 2.68K, leading to a revenue increase of 108.24% to $69.48M and a profit margin of 40.6%, resulting in $28.18M in profit from 28.41K orders. The year 2007 marked the most significant growth, with transactions jumping to 24.44K, generating $102.38M in revenue and achieving a profit margin of 41.6%. Total profit peaked at $42.55M from 255.72K orders. In 2008, the upward trend in transactions and order quantities continued, reaching 32.27K transactions and 337.39K orders. However, revenue slightly declined to $101.86M with a profit margin of 41.4%, resulting in a total profit of $42.16M. Over the years, the store demonstrated consistent growth in transactions and order quantities, with notable performance improvements in 2006 and 2007.
+---
+
+### Observations:
+- The number of **transactions** grew consistently year-over-year, with a significant jump in 2007.
+- **Revenue** and **profit** peaked in 2007, driven by increased transactions and order quantities.
+- Despite a slight decrease in **profit margin** in 2008, the total transactions and order quantities continued to grow.
 
 ---
 
-## Yearly Performance
-### 2008 Insights:
-- **Profit Contribution:** 54.4% of total profit.
-- **Performance Trends:**
-  - Strongest months: January to May.
-  - Decline observed from June onward.
+### Visualizing Performance (Optional)
+Include a chart or graph to visually represent the trends for metrics like revenue, profit, and transactions over the years.
 
----
-
-## Quarterly Analysis
-- **Q1:** $4.90M (45.12% of total profit)
-- **Q2:** $5.91M (54.38% of total profit)
-- **Q3:** $54.29K (0.50% of total profit)
-- **Q4:** $0 (no contribution)
-
----
-
-## Geographic Insights
-### Top Performing Regions:
-- **Australia**
-- **United States**
-- **United Kingdom**
-- **France**
-
-### Other Contributors:
-- **Canada**
-- **Germany**
 
 ---
 
