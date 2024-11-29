@@ -34,6 +34,7 @@ The dashboard summarizes the yearly performance of the Amazon Store from 2005 to
 
 ### Key Highlights:
 From 2005 to 2008, the Amazon Store experienced significant growth in key metrics. In 2005, transactions totaled 1.01K, generating $33.37M in revenue with a profit margin of 40.2% and $13.40M in total profit from an order quantity of 10.40K. By 2006, transactions surged to 2.68K, leading to a revenue increase of 108.24% to $69.48M and a profit margin of 40.6%, resulting in $28.18M in profit from 28.41K orders. The year 2007 marked the most significant growth, with transactions jumping to 24.44K, generating $102.38M in revenue and achieving a profit margin of 41.6%. Total profit peaked at $42.55M from 255.72K orders. In 2008, the upward trend in transactions and order quantities continued, reaching 32.27K transactions and 337.39K orders. However, revenue slightly declined to $101.86M with a profit margin of 41.4%, resulting in a total profit of $42.16M. Over the years, the store demonstrated consistent growth in transactions and order quantities, with notable performance improvements in 2006 and 2007.
+
 ---
 
 ### Observations:
