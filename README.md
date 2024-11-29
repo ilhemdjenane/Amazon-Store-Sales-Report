@@ -4,7 +4,6 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Dashboard Overview](#dashboard-overview)
-- [Key Metrics](#key-metrics)
 - [Yearly Performance](#yearly-performance)
 - [Quarterly Analysis](#quarterly-analysis)
 - [Geographic Insights](#geographic-insights)
