@@ -18,7 +18,7 @@ This report provides a high-level analysis of sales performance for the Amazon S
 ---
 
 ## Dashboard Overview
-![Dashboard](path/to/your/dashboard-image.png)
+![Dashboard](C:\Users\ilhem\OneDrive\Desktop\PORFOLIO PROJECTS\Excel Projects\Time Series Dahsboard.png)
 
 The dashboard visualizes key sales metrics, trends over time, and geographic performance. It enables the executive team to monitor progress and identify areas of improvement.
 
