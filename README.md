@@ -7,7 +7,7 @@
 - [Yearly Sales Performance](#Yearly-Sales-Performance)
 - [Quarterly Profit Analysis](#Quarterly-Profit-Analysis)
 - [Regional Profit Analysis](#Regional-Profit-Analysis)
-- [Weekday vs. Weekend Profit Analysis](#Weekday-vs.-Weekend-Profit-Analysis)
+- [Weekday vs Weekend Profit Analysis](#Weekday-vs-Weekend-Profit-Analysis)
 - [Recommendations](#recommendations)
 
 ---
