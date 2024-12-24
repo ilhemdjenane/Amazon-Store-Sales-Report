@@ -19,7 +19,7 @@ As an Analytics Consultant for an Amazon store, I was tasked with developing a h
 ---
 
 ## Dashboard Overview
-![Dashboard](https://github.com/ilhemdjenane/Amazon-Store-Sales-Report/blob/main/Time%20Series%20Dahsboard.png)
+![Dashboard](https://github.com/ilhemdjenane/Amazon-Store-Sales-Report/blob/bda9d6b1a0d587304002bc172a1434bf1034a30f/Sales%20Dashboard%20Excel.png)
 
 
 
